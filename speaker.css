@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <html>
+<head>
+
+  <title>Speakers</title>
+  <link href="https://fonts.googleapis.com/css?family=Raleway:600,900" rel="stylesheet">
+  <link rel="stylesheet" href="css/speakers.css" />
+</head>
+<body>
+  <p class="heading">Keynotes</p>
+  <div class="gallery-image">
+    <div class="img-box">
+      <img src="img/Jeff bezos.jpg" alt="" />
+      <div class="transparent-box">
+        <div class="caption">
+          <p>Jeff Bezos</p>
+          <p class="opacity-low"> Founded e-commerce giant Amazon</p>
+        </div>
+      </div> 
+    </div>
+
+    <div class="img-box">
+      <img src="img/kanye.jpg" alt="" />
+      <div class="transparent-box">
+        <div class="caption">
+          <p>Kanye West</p>
+          <p class="opacity-low">Millionaire</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="img-box">
+      <img src="img/ba.jpg" alt="" />
+      <div class="transparent-box">
+        <div class="caption">
+          <p>Bernard Arnaud</p>
+          <p class="opacity-low">Chairman and CEO of LVMH Moët Hennessy – Louis Vuitton, the world's leading luxury products group.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="img-box">
+      <img src="elon.jpg" alt="" />
+      <div class="transparent-box">
+        <div class="caption">
+          <p>Elon Musk</p>
+          <p class="opacity-low">CEO and chief engineer of SpaceX; angel investor, CEO and product architect</p>
+        </div>
+      </div> 
+    </div>
+
+    <div class="img-box">
+      <img src="kim.jpg" alt="" />
+      <div class="transparent-box">
+        <div class="caption">
+          <p>Kim Kardashian</p>
+          <p class="opacity-low">CEO of KKW Beauty and SKIMS -Billionaire</p>
+        </div>
+      </div> 
+    </div>
+    
+  </div>
+</body>
+</html>
